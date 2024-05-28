@@ -655,15 +655,3 @@ div.scroll-container img {
 }
 
 
-.scroll-container {
-            overflow-x: auto;
-            white-space: nowrap; /* Prevent images from wrapping */
-        }
-
-        .image-container {
-            display: inline-block; /* Ensure images are in a row */
-        }
-
-        .image-container img {
-            margin-right: 10px; /* Adjust spacing between images */
-        }
